@@ -31,7 +31,7 @@ This github repsoitory contains all the file's related to capstone project done 
 2) run_remote_v2
 3) parallel_remote_v2
 
-# Final paper on the project
+# Paper
 
 1) Paper
 2) Abstract
